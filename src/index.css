@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+
+body{
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osz-font-smoothing: grayscale;
+    font-family: 'poppins';
+}
+
