@@ -2,7 +2,7 @@ import React, { useReducer } from 'react';
 import hand_icon from '../Images/hand_icon.png';
 import arrow_icon from '../Images/arrow.png';
 import hero_image from '../Images/hero_image.png';
-import './Hero.css'
+//import './Hero.css'
 
 //** */
 const actionTypes = {
